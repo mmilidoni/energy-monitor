@@ -1,0 +1,9 @@
+<?php
+
+$config['ftp_materiale'] = array(
+    "hostname" => "host",
+    "username" => "username",
+    "password" => "********"
+);
+
+

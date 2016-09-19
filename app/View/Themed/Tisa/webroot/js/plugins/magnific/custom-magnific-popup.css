@@ -1,0 +1,22 @@
+.custom-popup {
+	position: relative;
+	background: #FFF;
+	padding: 25px;
+	width:auto;
+	max-width: 400px;
+	margin: 0 auto;
+}
+.mfp-close-override {
+	width: auto;
+	height: auto;
+	line-height: initial;
+	opacity: initial;
+	padding: 6px 12px;
+	font-family: initial;
+	font-size: initial;
+	color: #ffffff !important;
+	font-size: 14px;
+  	font-weight: 400;
+  	height: 100%;
+	font-family: 'Open Sans', Verdana, Helvetica, sans-serif;
+}
